@@ -1,9 +1,3 @@
-//#include <iostream>
-//
-//int main (int argc,char ** argv) {
-//        std::cout << "hello world!" << std::endl;
-//        return 0;
-//}
 #include <mpi.h>
 #include <stdio.h>
 
